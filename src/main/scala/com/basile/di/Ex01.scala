@@ -1,6 +1,7 @@
 package com.basile.di
 
 /**
+  * cc
  * http://stackoverflow.com/questions/11276319/using-reader-monad-for-dependency-injection
  */
 object Ex01 extends App {
